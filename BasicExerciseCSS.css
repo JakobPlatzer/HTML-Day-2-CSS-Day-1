@@ -14,3 +14,7 @@ img {
 body {
     background-color: bisque;
 }
+
+#fifth p {
+    font-size: 125%;
+}
